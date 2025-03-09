@@ -1,0 +1,87 @@
+# Copyright (C) 2025 RTR
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: RTR Custom Styles and Scripts 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/rtr-custom-styles-scripts\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-03-09T10:05:00+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: rtr-custom-styles-scripts\n"
+
+#. Plugin Name of the plugin
+msgid "RTR Custom Styles and Scripts"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://example.com/rtr-custom-styles-scripts"
+msgstr ""
+
+#. Description of the plugin
+msgid "A plugin that allows users to add custom styles and scripts to their WordPress site."
+msgstr ""
+
+#. Author of the plugin
+msgid "RTR"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://example.com"
+msgstr ""
+
+#: rtr-custom-styles-scripts.php:62
+msgid "RTR Custom Styles & Scripts"
+msgstr ""
+
+#: rtr-custom-styles-scripts.php:63
+msgid "RTR Styles & Scripts"
+msgstr ""
+
+#: rtr-custom-styles-scripts.php:109
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: rtr-custom-styles-scripts.php:128
+#: rtr-custom-styles-scripts.php:138
+msgid "Custom CSS"
+msgstr ""
+
+#: rtr-custom-styles-scripts.php:130
+#: rtr-custom-styles-scripts.php:146
+msgid "Custom JavaScript"
+msgstr ""
+
+#: rtr-custom-styles-scripts.php:132
+#: rtr-custom-styles-scripts.php:154
+msgid "Header Scripts"
+msgstr ""
+
+#: rtr-custom-styles-scripts.php:134
+#: rtr-custom-styles-scripts.php:162
+msgid "Footer Scripts"
+msgstr ""
+
+#: rtr-custom-styles-scripts.php:139
+msgid "Add custom CSS styles to your site. These styles will be applied to the front end of your site."
+msgstr ""
+
+#: rtr-custom-styles-scripts.php:147
+msgid "Add custom JavaScript to your site. This code will be added to the footer of your site."
+msgstr ""
+
+#: rtr-custom-styles-scripts.php:155
+msgid "Add custom scripts to the head section of your site. Useful for verification tags, analytics, etc."
+msgstr ""
+
+#: rtr-custom-styles-scripts.php:163
+msgid "Add custom scripts to the footer of your site. This is the recommended location for most scripts."
+msgstr ""
+
+#: rtr-custom-styles-scripts.php:172
+msgid "Save Settings"
+msgstr ""

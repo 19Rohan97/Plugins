@@ -1,0 +1,55 @@
+# RTR Custom Styles and Scripts - Git Ignore File
+
+# Ignore memory bank files (development documentation)
+/memory-bank/
+.clinerules
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Ignore editor and IDE files
+*.sublime-project
+*.sublime-workspace
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Ignore dependency directories
+/node_modules/
+/vendor/
+
+# Ignore build and distribution files
+/dist/
+/build/
+
+# Ignore log files
+*.log
+error_log
+access_log
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore WordPress core files (if included in the repo)
+/wp-admin/
+/wp-includes/
+/wp-content/
+
+# Ignore WordPress plugin zip files
+*.zip
+
+# Ignore composer files
+composer.phar
+/vendor/
+
+# Ignore npm files
+npm-debug.log
+yarn-error.log
+yarn-debug.log

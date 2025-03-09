@@ -1,0 +1,24 @@
+/**
+ * RTR Custom Styles and Scripts Admin Styles
+ */
+
+.rtr-css-tabs .nav-tab-wrapper {
+    margin-bottom: 20px;
+}
+
+.rtr-css-tabs .tab-content {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+.rtr-css-tabs textarea {
+    width: 100%;
+    font-family: monospace;
+    resize: vertical;
+}
+
+.rtr-css-tabs h2 {
+    margin-top: 0;
+}
